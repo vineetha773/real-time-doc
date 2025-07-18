@@ -54,6 +54,8 @@ A full-stack web application that allows multiple users to edit the same documen
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ceab1448-5616-43ca-babe-57432d72b8ac" />
+
 
 
 
